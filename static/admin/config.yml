@@ -1,7 +1,7 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo: myBlog
+  repo: yasinehsan/myBlog
 
 media_folder: static/assets
 public_folder: /assets
